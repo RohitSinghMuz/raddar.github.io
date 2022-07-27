@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raddar/static/css/main.1ad5a375.css",
+    "main.js": "/raddar/static/js/main.7454f3ff.js",
+    "static/js/787.7a726840.chunk.js": "/raddar/static/js/787.7a726840.chunk.js",
+    "index.html": "/raddar/index.html",
+    "main.1ad5a375.css.map": "/raddar/static/css/main.1ad5a375.css.map",
+    "main.7454f3ff.js.map": "/raddar/static/js/main.7454f3ff.js.map",
+    "787.7a726840.chunk.js.map": "/raddar/static/js/787.7a726840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad5a375.css",
+    "static/js/main.7454f3ff.js"
+  ]
+}
